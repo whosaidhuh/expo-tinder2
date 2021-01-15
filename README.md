@@ -21,3 +21,11 @@ https://stackoverflow.com/questions/55358811/error-unable-to-resolve-module-reac
 - Make sure your react-navigation version 3.11.0!!
 - necessary step... not sure which previous steps were necessary
 
+https://reactnavigation.org/docs/4.x/upgrading-from-3.x/
+- also neccesssarryyyy
+
+Failed to compile.
+/home/a/projects/expo-tinder2/node_modules/react-native/Libraries/Components/AppleTV/TVEventHandler.js
+Module not found: Can't resolve '../../Utilities/Platform' in '/home/a/projects/expo-tinder2/node_modules/react-native/Libraries/Components/AppleTV'
+
+
